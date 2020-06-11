@@ -17,3 +17,7 @@ DICAS:
 -> Qualquer ambiente pode ser usado pra programar em python inclusive um bloco de notas, recomendado o próprio 
 -> IDLE que vem com a instalação do python
 -> Para retornornar um json é só utilizar um dicionário em python e enviar pela função make_response
+
+MODO DE USAR:
+http://localhost:8080/X/Y/R
+Sendo, X e Y, as coordenadas do centro da circunferência e R o raio.
